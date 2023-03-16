@@ -345,6 +345,7 @@ body {
   margin-bottom: var(--p-margin-top-bottom);
 
   background-color: var(--light-backgrounds-color);
+  border-radius: 4px;
 }
 
 /* Our Flow */
